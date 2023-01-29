@@ -8,6 +8,6 @@
 
 # Ссылки
 
-[Блок-схема](FinalVereficationWork/Scheme.drawio.png) ;
-[Код](FinalVereficationWork/Program.cs) ;
-[Библиотека](FinalVereficationWork/Library.cs)
+[Блок-схема](FinalVerificationWork/Scheme.drawio.png) ;
+[Код](FinalVerificationWork/Program.cs) ;
+[Библиотека](FinalVerificationWork/Library.cs)
